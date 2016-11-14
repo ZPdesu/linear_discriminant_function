@@ -8,7 +8,6 @@ a = array([5.0,6,5,7])
 b = range(4)
 ttemp = mat(a).copy()
 
-a[2] = 2
 print ttemp
 ttemp[0, 3] =1
 print a
