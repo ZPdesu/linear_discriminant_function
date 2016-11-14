@@ -193,4 +193,4 @@ if __name__ == '__main__':
     #cal_one(w1, w2, w3, w4)
     #cal_two(w1, w2, w3, w4)
     cal_three(w1, w2, w3, w4)
-    #cal_four(w1, w2, w3, w4)
+    cal_four(w1, w2, w3, w4)
